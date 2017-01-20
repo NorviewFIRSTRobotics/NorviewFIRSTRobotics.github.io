@@ -1,5 +1,5 @@
 # Site settings
-title: Paper Theme
+title: Norview FRC Team 1793
 description: > # this means to ignore newlines until "baseurl:"
   A gentle theme for Jekyll utilising material design.
 baseurl: "/" # the subpath of your site, e.g. /blog/
@@ -31,9 +31,9 @@ material-theme:              'blue-pink'
 # drawer theming
 drawer:
   text_color:       'grey-600'
-  header_color:     'blue-500'
+  header_color:     'blue-900'
   navigation_color: 'grey-200'
 # footer theming
 footer:
   text_color: 'blue-grey-200'
-  color: 'blue-grey-600'
+  color: 'blue-600'
