@@ -1,0 +1,592 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"a",
+				"authenticate"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"Pr",
+				"Println                        func(a ...interface{}) (n int, err error ƒ"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"GetM",
+				"GetMemoryWatcherPath"
+			],
+			[
+				"get",
+				"GetDolphinPath"
+			],
+			[
+				"me",
+				"memory_watcher"
+			],
+			[
+				"ad",
+				"addShapeless"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Package Control Messages\n========================\n\nJekyll\n------\n\n  ***************************************************************************************************\n         \n                ÛÛÛ           ÛÛÛÛÛ                 ÛÛÛÛ  ÛÛÛÛ      ÛÛÛÛÛÛÛÛ        ÛÛÛÛÛ   \n               °°°           °°ÛÛÛ                 °°ÛÛÛ °°ÛÛÛ     ÛÛÛ°°°°ÛÛÛ     ÛÛÛ°°°ÛÛÛ \n               ÛÛÛÛÛ  ÛÛÛÛÛÛ  °ÛÛÛ ÛÛÛÛÛ ÛÛÛÛÛ ÛÛÛÛ °ÛÛÛ  °ÛÛÛ    °°°    °ÛÛÛ    ÛÛÛ   °°ÛÛÛ\n              °°ÛÛÛ  ÛÛÛ°°ÛÛÛ °ÛÛÛ°°ÛÛÛ °°ÛÛÛ °ÛÛÛ  °ÛÛÛ  °ÛÛÛ       ÛÛÛÛÛÛ°    °ÛÛÛ    °ÛÛÛ\n               °ÛÛÛ °ÛÛÛÛÛÛÛ  °ÛÛÛÛÛÛ°   °ÛÛÛ °ÛÛÛ  °ÛÛÛ  °ÛÛÛ      °°°°°°ÛÛÛ   °ÛÛÛ    °ÛÛÛ\n               °ÛÛÛ °ÛÛÛ°°°   °ÛÛÛ°°ÛÛÛ  °ÛÛÛ °ÛÛÛ  °ÛÛÛ  °ÛÛÛ     ÛÛÛ   °ÛÛÛ   °°ÛÛÛ   ÛÛÛ \n               °ÛÛÛ °°ÛÛÛÛÛÛ  ÛÛÛÛ ÛÛÛÛÛ °°ÛÛÛÛÛÛÛ  ÛÛÛÛÛ ÛÛÛÛÛ   °°ÛÛÛÛÛÛÛÛ  ÛÛ °°°ÛÛÛÛÛ°  \n               °ÛÛÛ  °°°°°°  °°°° °°°°°   °°°°°ÛÛÛ °°°°° °°°°°     °°°°°°°°  °°    °°°°°°   \n           ÛÛÛ °ÛÛÛ                       ÛÛÛ °ÛÛÛ                                          \n          °°ÛÛÛÛÛÛ                       °°ÛÛÛÛÛÛ                                           \n           °°°°°°                         °°°°°°                                            \n  \n  \n                                  Thanks for installing sublime-jekyll.\n                                     We hope you like what you see.\n                              \n                              http://23maverick23.github.io/sublime-jekyll/\n                            sublime-jekyll is licensed under the MIT license.\n         \n  ***************************************************************************************************\n  \n  \n  This package should help maintaining Jekyll sites and posts easier by providing access to new post\n  and draft shortcuts, key Liquid template tags and filters, as well as common filter completions and\n  YAML front-matter templates for standardizing your posts.\n  \n  \n  After installing this package, make sure you configure your User settings file. The most important\n  piece of this is to set your `posts_path` and `drafts_path` locations. This can also be set on a\n  per-project basis later if you have multiple Jekyll sites you wish to manage.\n  \n  \n  If you have any questions or issues, please visit the homepage where you can watch a short video and\n  get quick access to RTFD documentation and Github to log issues.\n",
+			"settings":
+			{
+				"buffer_size": 2375,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					""
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Cross-Compile (Interactive)"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Golang Build/Go.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Enable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 373.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/tyler/Programming/team1793",
+		"/home/tyler/Programming/team1793/_layouts",
+		"/home/tyler/Programming/team1793/assets"
+	],
+	"file_history":
+	[
+		"/home/tyler/Programming/team1793/site.sublime-project",
+		"/home/tyler/.config/sublime-text-3/Packages/Jekyll/Default (Linux).sublime-keymap",
+		"/home/tyler/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/tyler/Programming/team1793/_includes/header.html",
+		"/home/tyler/Programming/team1793/_config.yml",
+		"/home/tyler/Programming/team1793/README.md",
+		"/home/tyler/not.finished",
+		"/home/tyler/.cache/.fr-GwCeQt/Vision Example/GripPipeline.grip",
+		"/home/tyler/.cache/.fr-3xWsqk/Vision Example/ReadMe.txt",
+		"/home/tyler/Programming/team1793/css/main.scss",
+		"/home/tyler/Programming/team1793/_includes/head.html",
+		"/home/tyler/Programming/team1793/_layouts/post.html",
+		"/home/tyler/Programming/team1793/about.md",
+		"/home/tyler/Programming/team1793/_includes/footer.html",
+		"/home/tyler/Programming/team1793/index.html",
+		"/home/tyler/Programming/team1793/_site/about/index.html",
+		"/home/tyler/Programming/team1793/_posts/2017-01-20-first-post.md",
+		"/home/tyler/Programming/team1793/_posts/2015-09-12-a-gentle-theme.markdown",
+		"/home/tyler/.config/sublime-text-3/Packages/User/insert_date.sublime-settings",
+		"/home/tyler/.config/sublime-text-3/Packages/InsertDate/insert_date.sublime-settings",
+		"/home/tyler/Programming/team1793/_site/README.md",
+		"/home/tyler/Programming/team1793/_site/assets/screenshots/mockup.jpg",
+		"/home/tyler/Programming/team1793/_site/categories.html",
+		"/home/tyler/Programming/team1793/_site/documentation/2015/09/12/a-gentle-theme.html",
+		"/home/tyler/Programming/team1793/_site/documentation/2015/09/12/install.html",
+		"/home/tyler/Programming/team1793/_site/feed.xml",
+		"/home/tyler/Programming/team1793/_site/index.html",
+		"/home/tyler/Programming/team1793/_site/scripts/app.js",
+		"/home/tyler/Programming/team1793/assets/screenshots/mockup.jpg",
+		"/home/tyler/Programming/team1793/feed.xml",
+		"/home/tyler/Programming/dotX/deploy.sh",
+		"/home/tyler/Programming/dotX/Gemfile.lock",
+		"/home/tyler/Programming/dotX/Gemfile",
+		"/home/tyler/Programming/dotX/travisGemfile",
+		"/home/tyler/Programming/dotX/_config.yml",
+		"/home/tyler/Programming/dotX/rakefile",
+		"/srv/http/github.html",
+		"/srv/http/homepage.html",
+		"/srv/http/style.css",
+		"/home/tyler/.config/teiler/profiles/mp4-pulse",
+		"/home/tyler/.config/teiler/uploader/scp",
+		"/home/tyler/.config/teiler/uploader/s3",
+		"/home/tyler/Downloads/Vision Example/ReadMe.txt",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.25,port=1022,user=tyler/home/tyler/.config/i3/config",
+		"/home/tyler/.cache/.fr-QaYVFg/Vision Example/ReadMe.txt",
+		"/home/tyler/.cache/.fr-mjdODm/Vision Example/GripPipeline.grip",
+		"/home/tyler/Programming/FRCSteamWorks2017/README.md",
+		"/home/tyler/strongback-java.wiki/Home.md",
+		"/home/tyler/Downloads/strongback/java/ant/build.xml",
+		"/home/tyler/Downloads/strongback/java/bin/strongback.sh",
+		"/home/tyler/Downloads/strongback/java/ant/build.properties",
+		"/srv/http/norviewfirstrobotics.github.io/calendar.html",
+		"/srv/http/primetoxinz.github.io/assets/css/style.scss",
+		"/srv/http/primetoxinz.github.io/_layouts/default.html",
+		"/srv/http/primetoxinz.github.io/calendar.md",
+		"/home/tyler/Programming/BetterWithMods/build.gradle",
+		"/home/tyler/Programming/BetterWithMods/gradle/wrapper/gradle-wrapper.properties",
+		"/home/tyler/Programming/Steamworks/build.gradle",
+		"/home/tyler/.cache/.fr-B1bUMz/META-INF/MANIFEST.MF",
+		"/srv/http/primetoxinz.github.io/_includes/timer.html",
+		"/srv/http/primetoxinz.github.io/_site/assets/css/style.css",
+		"/srv/http/primetoxinz.github.io/index.md",
+		"/srv/http/primetoxinz.github.io/gallery.md",
+		"/srv/http/primetoxinz.github.io/about.md",
+		"/home/tyler/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/srv/http/primetoxinz.github.io/_data/navigation.yml",
+		"/srv/http/primetoxinz.github.io/_includes/navigation.html",
+		"/home/tyler/.config/sublime-text-3/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/home/tyler/.config/sublime-text-3/Packages/User/ColorPicker.sublime-settings",
+		"/srv/http/primetoxinz.github.io/.gitignore",
+		"/home/tyler/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/srv/http/primetoxinz.github.io/_config.yml",
+		"/srv/http/primetoxinz.github.io/README.md",
+		"/srv/http/primetoxinz.github.io/Gemfile",
+		"/srv/http/norviewfirstrobotics.github.io/index.html",
+		"/run/user/1000/gvfs/sftp:host=mc.xaviorm.com,port=1022,user=minecraft/home/minecraft/IC2/ATM Expert Server 1.0.14/auto_restart",
+		"/run/user/1000/gvfs/sftp:host=mc.xaviorm.com,port=1022,user=minecraft/home/minecraft/IC2/local/local_mercurius.cfg",
+		"/home/tyler/Programming/Minecraft/assets/minecraft/models/block/stone.json",
+		"/srv/http/norviewfirstrobotics.github.io/about.html",
+		"/srv/http/norviewfirstrobotics.github.io/gallery.html",
+		"/home/tyler/.multimc5/instances/1.10.2/minecraft/config/TerrainControl/TerrainControl.ini",
+		"/home/tyler/Programming/RandomMods/build.gradle",
+		"/srv/http/norviewfirstrobotics.github.io/assets/js/navbar.js",
+		"/home/tyler/Programming/cord/comms/basic.js",
+		"/home/tyler/.multimc5/instances/1.10.2/minecraft/config/theoneprobe.cfg",
+		"/home/tyler/Programming/AquaMunda/build.gradle",
+		"/home/tyler/.cache/.fr-uxqAxf/build.gradle",
+		"/home/tyler/Programming/cord/config.json",
+		"/home/tyler/Programming/cord/auth.json",
+		"/home/tyler/Programming/cord/comms/test.js",
+		"/srv/http/norviewfirstrobotics.github.io/assets/css/blueimp-gallery.min.css",
+		"/srv/http/norviewfirstrobotics.github.io/assets/css/blueimp-gallery.css",
+		"/srv/http/norviewfirstrobotics.github.io/roster.html",
+		"/srv/http/norviewfirstrobotics.github.io/assets/css/style.css",
+		"/home/tyler/Downloads/Gallery-2.22.0/css/blueimp-gallery.min.css",
+		"/srv/http/norviewfirstrobotics.github.io/assets/css/randomstyle.css",
+		"/srv/http/norviewfirstrobotics.github.io/roster.csv",
+		"/home/tyler/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/home/tyler/.config/sublime-text-3/Packages/User/HTMLBeautify.sublime-settings",
+		"/home/tyler/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/srv/http/norviewfirstrobotics.github.io/jquery.csv.min.js",
+		"/srv/http/norviewfirstrobotics.github.io/roster.xml",
+		"/home/tyler/Programming/norviewfirstrobotics.github.io/roster.txt",
+		"/home/tyler/Programming/norviewfirstrobotics.github.io/index.html",
+		"/home/tyler/.config/sublime-text-3/Packages/User/View In Browser.sublime-settings",
+		"/home/tyler/Programming/norviewfirstrobotics.github.io/roster.html",
+		"/home/tyler/Programming/norviewfirstrobotics.github.io/test.html",
+		"/home/tyler/Programming/norviewfirstrobotics.github.io/ajax_info.txt",
+		"/home/tyler/.config/sublime-text-3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/home/tyler/.cache/.fr-feqLly/changelog/3.4.2",
+		"/home/tyler/.cache/.fr-C1k41F/mcmod.info",
+		"/home/tyler/.multimc5/instances/FarmingValley/minecraft/emoticons/cache/global.json",
+		"/home/tyler/.multimc5/instances/FarmingValley/minecraft/emoticons/cache/subscriber.json",
+		"/home/tyler/.multimc5/instances/FarmingValley/minecraft/config/Quark.cfg",
+		"/home/tyler/.config/teiler/config",
+		"/home/tyler/.cache/.fr-ri1SaO/build.number",
+		"/home/tyler/.multimc5/instances/FarmingValley/minecraft/export.rtf",
+		"/home/tyler/.multimc5/instances/FarmingValley/minecraft/config/qcreatures.cfg",
+		"/home/tyler/Programming/VillageRemover/build.gradle",
+		"/home/tyler/Programming/VillageRemover/gradle.properties",
+		"/home/tyler/.multimc5/instances/1.10.2/minecraft/config/biomesoplenty/biome_ids.json",
+		"/home/tyler/Programming/iris-floss/test",
+		"/home/tyler/.multimc5/instances/1.10.2/minecraft/config/biomesoplenty/misc.cfg",
+		"/home/tyler/.multimc5/instances/1.10.2/minecraft/config/biomesoplenty/gameplay.cfg",
+		"/home/tyler/modpackinstaller.cfg",
+		"/home/tyler/.multimc5/instances/FarmingValley/instance.cfg",
+		"/home/tyler/.multimc5/instances/FarmingValley/patches/net.minecraftforge.json",
+		"/home/tyler/Downloads/install_profile.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 86.0,
+		"where_history":
+		[
+			"/home/tyler/Programming/team1793"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header_color",
+			"blue-500",
+			"header_color",
+			"http:/",
+			"http://www.gravatar.com/avatar/",
+			"gravatar",
+			"theme",
+			"floating",
+			"main/java/",
+			"header",
+			"#FF",
+			"li",
+			"\"",
+			"habitablenut59",
+			"\\n",
+			" ",
+			"/img/",
+			"img",
+			"png",
+			"play-pause",
+			"slideWidth",
+			"\"",
+			"ajax_info.txt",
+			"village",
+			"default world",
+			"default",
+			"guard",
+			"\\t",
+			"())\n",
+			"add",
+			"  ",
+			"\\n",
+			" ",
+			"  ",
+			"      ",
+			"       ",
+			"\\n",
+			"  ",
+			"world",
+			"color",
+			"'",
+			"style=\".*\"",
+			"'#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})'",
+			"('.*')=",
+			"='#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})'",
+			"\"",
+			"    ",
+			"=(.*)$",
+			"\\n([^\"].*[^\"])=",
+			"([^\"].*[^\"])=",
+			"(.*)=",
+			"S:",
+			"\\n\\n",
+			"#.*",
+			"check",
+			",",
+			"float (.*)",
+			"bool(.*);",
+			"uint(.*);",
+			"loop",
+			"GetDolphinPath",
+			"master",
+			"death.",
+			"low",
+			"java",
+			"forge",
+			"{}",
+			"items/bow_pulling",
+			"item/bow_pulling",
+			"spawn",
+			"Ender",
+			"ender",
+			"witch",
+			"tin",
+			"copper",
+			"Painted",
+			"Failed to parse color value",
+			"Failed",
+			"6400FF",
+			"witch",
+			"Real",
+			"Realis",
+			"probe",
+			"require",
+			"probe",
+			"<",
+			"</strong>",
+			"<strong>",
+			">\n",
+			"pulse",
+			".mpd/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"https:/",
+			"https://www.gravatar.com/avatar/",
+			"",
+			"'",
+			"",
+			"/images/",
+			"images",
+			"",
+			"...\n",
+			"    ",
+			" ",
+			"",
+			" ",
+			"",
+			" ",
+			"",
+			"\"color:#$1;\"",
+			"<p>$1</p style=",
+			"style=\"color:#$1;\"",
+			"'",
+			"",
+			"=\"#$1\"",
+			"=#$1",
+			"\\n\"$1\"=",
+			"\"$1\"=",
+			"",
+			"$1 float32",
+			"$1 bool",
+			"$1 uint32",
+			"betterwithmods:items/composite_bow",
+			"",
+			".config/mpd/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1453,
+								1453
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MarGo-output":
+	{
+		"height": 88.0
+	},
+	"output.exec":
+	{
+		"height": 106.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.golang_build":
+	{
+		"height": 88.0
+	},
+	"output.gotools_syntax_errors":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "site.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
